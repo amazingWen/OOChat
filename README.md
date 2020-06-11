@@ -11,7 +11,7 @@ java实现的简单聊天程序
 # 部分截图
 
 ## 登录
-
+![Image text](https://github.com/amazingWen/OOChat/blob/master/img-folder/35LQNWU6(WGXQ%7DN%253AN_Z5A.png)
 
 ## 注册
 
