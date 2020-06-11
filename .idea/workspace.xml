@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a321ff6-9027-4e65-9d50-1d7cbf5f0c90" name="Default Changelist" comment="OOChat first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525160012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200526174154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200608222043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/C++/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525155945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525162807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525165506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525173106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525174102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525174550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526174645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526174717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526174759.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526174823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200610101556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/JAVA/20200610101603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526173244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526174143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526174440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526174522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526174600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526175434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526175810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200526173626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/Server/烦人/20200610102620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200608222043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/C++/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200610101556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200610101603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/JAVA/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PHP/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/PYTHON/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/Image/User/烦人/20200610102620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/NewClass1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/NewClass1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/NewClass1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/NewClass1$FontAttrib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/NewClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/TabDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/TabDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/TabDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/tcp/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/tcp/MultiServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/tcp/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/udp/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/Demo/udp/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Receive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Send.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Server$MyChannel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Control/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Dao/DaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Dao/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Util/CloseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Util/DateStringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/Util/StrSplit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/3223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/LoginView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/LoginView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/LoginView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/LoginView$MyListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/LoginView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView$FontAttrib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/UserView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOChat/com/zw/net/chat/View/fasong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525160012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200526174154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525155945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525162807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525165506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525173106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525174102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525174550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526174645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526174717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526174759.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526174823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526173244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526174143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526174440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526174522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526174600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526175434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526175810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200526173626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/Server/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/JAVA/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PHP/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/Image/User/PYTHON/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/META-INF/javanetwork.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/zw/net/chat/View/3223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javanetwork/com/zw/net/chat/View/fasong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qq_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525160012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200526174154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200608222043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/C++/20200611212555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525155945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525162807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525165506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525173106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525174102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525174550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526174645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526174717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526174759.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526174823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200610101556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/JAVA/20200610101603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526173244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526174143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526174440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526174522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526174600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526175434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526175810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200526173626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/Server/烦人/20200610102620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525170131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525181610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200608222043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/C++/20200611212555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525002500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525003437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525003736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525005443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525005834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525010237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525010726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525010902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525103246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525104945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525161048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525162924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525163553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525164852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525170048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525174731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525175950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525184118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525184132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525184229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525192528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525192538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525192545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525192552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525192640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525195655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525195703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525195729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525195747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200525232559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526180312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200527101122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200527104402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200610101556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200610101603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200610101716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/JAVA/20200611212555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526175709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526175738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526180117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526180145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526180154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526180214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526180516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526183957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PHP/20200526184111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525105931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525170238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525201301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525201423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525201543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525201605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525201618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525202544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200525202600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200526172223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200526172409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200526172424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200526173842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200527104340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/PYTHON/20200527104354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/User/烦人/20200610102620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/NewClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/TabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/tcp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/tcp/MultiServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/tcp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/udp/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/Demo/udp/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Control/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Control/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Control/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Control/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Control/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Dao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Util/CloseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Util/DateStringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/Util/StrSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/View/3223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/View/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/View/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zw/net/chat/View/fasong.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\zw\IdeaProjects\OOChat\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDoNrNT2xrfRZm2b3RI6ctTixw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zw\IdeaProjects\OOChat" />
+      <recent name="C:\Users\zw\IdeaProjects\javanetwork\src\com\zw\net\chat\View" />
+      <recent name="C:\Users\zw\IdeaProjects\javanetwork" />
+      <recent name="C:\Users\zw\IdeaProjects\javanetwork\src\com\zw\net\chat\demo3" />
+      <recent name="C:\Users\zw\IdeaProjects\javanetwork\src\com\zw\net\chat\demo2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zw.net.chat.demo1" />
+      <recent name="com.zw.net.tcp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zw\IdeaProjects\javanetwork\src\com\zw\net\chat\View" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.net.chat.Control.Client" />
+      <module name="OOChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.net.chat.Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateStringUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.net.chat.Util.DateStringUtil" />
+      <module name="OOChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.net.chat.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.net.Demo.Demo03" />
+      <module name="OOChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.net.chat.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.net.chat.Control.Login" />
+      <module name="OOChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.net.chat.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.net.chat.Control.Server" />
+      <module name="OOChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.net.chat.Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.DateStringUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a321ff6-9027-4e65-9d50-1d7cbf5f0c90" name="Default Changelist" comment="" />
+      <created>1588175987603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588175987603</updated>
+      <workItem from="1588175992507" duration="2889000" />
+      <workItem from="1589355219724" duration="4168000" />
+      <workItem from="1589857288503" duration="42600000" />
+      <workItem from="1590046825004" duration="37609000" />
+      <workItem from="1590153187550" duration="4966000" />
+      <workItem from="1590158170958" duration="3512000" />
+      <workItem from="1590163004644" duration="39439000" />
+      <workItem from="1590240562116" duration="76595000" />
+      <workItem from="1590423738232" duration="37773000" />
+      <workItem from="1591279172523" duration="113000" />
+      <workItem from="1591279326123" duration="1446000" />
+      <workItem from="1591621819554" duration="2382000" />
+      <workItem from="1591625070201" duration="2769000" />
+      <workItem from="1591688767566" duration="2230000" />
+      <workItem from="1591754430161" duration="2165000" />
+      <workItem from="1591881724760" duration="52000" />
+      <workItem from="1591881819258" duration="743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="41" key="#Client" timestamp="1589876432973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="41" key="#Client/0.0.1366.728@0.0.1366.728" timestamp="1589876432973" />
+    <state x="386" y="41" key="#Login" timestamp="1590167030812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="41" key="#Login/0.0.1366.728@0.0.1366.728" timestamp="1590167030812" />
+    <state x="275" y="26" key="#Project_Structure" timestamp="1588176001910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588176001910" />
+    <state x="386" y="41" key="#Server" timestamp="1589860851329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="41" key="#Server/0.0.1366.728@0.0.1366.728" timestamp="1589860851329" />
+    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590156844346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590156844346" />
+    <state x="183" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590408238928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590408238928" />
+    <state x="313" y="98" key="#com.intellij.ide.util.ExportDialog" timestamp="1590046298193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="98" key="#com.intellij.ide.util.ExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1590046298193" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1590317994244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590317994244" />
+    <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590547319115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1590547319115" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589972947050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1589972947050" />
+    <state x="555" y="117" key="#xdebugger.XInspectDialog" timestamp="1590242924943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="117" key="#xdebugger.XInspectDialog/0.0.1366.728@0.0.1366.728" timestamp="1590242924943" />
+    <state x="438" y="72" key="#xdebugger.evaluate" timestamp="1590242262005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="72" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1590242262005" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591882555820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591882555820" />
+    <state width="433" height="439" key="DebuggerActiveHint" timestamp="1590487759260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="433" height="439" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1590487759260" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1591882245832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591882245832" />
+    <state x="508" y="278" width="373" height="171" key="Github.CreateGistDialog" timestamp="1591279525105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="278" width="373" height="171" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1591279525105" />
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1591881935755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591881935755" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1591881935754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591881935754" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1591881935754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591881935754" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1591881935754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591881935754" />
+    <state width="1323" height="220" key="GridCell.Tab.1.bottom" timestamp="1590661611786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590661611786" />
+    <state width="1323" height="220" key="GridCell.Tab.1.center" timestamp="1590661611786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590661611786" />
+    <state width="1323" height="220" key="GridCell.Tab.1.left" timestamp="1590661611785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590661611785" />
+    <state width="1323" height="220" key="GridCell.Tab.1.right" timestamp="1590661611786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590661611786" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591882214089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591882214089" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1591688766009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591688766008" />
+    <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590310283346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590310283346" />
+    <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589866465857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1589866465857" />
+    <state x="57" y="0" key="new project wizard" timestamp="1591692953877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591692953877" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1589860777369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589860777369" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Login.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/View/UserView.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Server.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Receive.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Receive.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Receive.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zw/net/chat/Control/Send.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="client.send.user" />
+        <watch expression="jtf1" language="JAVA" />
+        <watch expression="user" />
+        <watch expression="send" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javanetwork$MyClient.ic" NAME="MyClient Coverage Results" MODIFIED="1589858448352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zw.net.udp.*</FILTER>
+    </SUITE>
+  </component>
+</project>
