@@ -12,20 +12,16 @@ java实现的简单聊天程序
 
 ## 登录
 
-![image-20200611220434128](C:\Users\zw\AppData\Roaming\Typora\typora-user-images\image-20200611220434128.png)
 
 ## 注册
 
-![image-20200611220554330](C:\Users\zw\AppData\Roaming\Typora\typora-user-images\image-20200611220554330.png)
 
 ## 聊天界面
 
-![image-20200611220503107](C:\Users\zw\AppData\Roaming\Typora\typora-user-images\image-20200611220503107.png)
 
 ## 发送图片
 
-![image-20200611220701192](C:\Users\zw\AppData\Roaming\Typora\typora-user-images\image-20200611220701192.png)
 
 ## 发送文字
 
-![image-20200611220744320](C:\Users\zw\AppData\Roaming\Typora\typora-user-images\image-20200611220744320.png)
+
