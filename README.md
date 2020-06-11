@@ -11,12 +11,13 @@ java实现的简单聊天程序
 # 部分截图
 
 ## 登录
-![Image text](https://github.com/amazingWen/OOChat/blob/master/img-folder/35LQNWU6(WGXQ%7DN%253AN_Z5A.png)
+![Image text](https://raw.githubusercontent.com/amazingWen/OOChat/master/img-folder/35LQNWU6(WGXQ%7DN%253AN_Z5A.png)
 
 ## 注册
-
+![Image text](https://raw.githubusercontent.com/amazingWen/OOChat/master/img-folder/P%405J7J(7C4%25R%24%5DA14VL7M69.png)
 
 ## 聊天界面
+![Image text](https://raw.githubusercontent.com/amazingWen/OOChat/master/img-folder/ZUH%5BX7_)68%5BUJP~(1T2%40NX1.png)
 
 
 
