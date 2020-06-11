@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a321ff6-9027-4e65-9d50-1d7cbf5f0c90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +208,7 @@
       <workItem from="1591688767566" duration="2230000" />
       <workItem from="1591754430161" duration="2165000" />
       <workItem from="1591881724760" duration="52000" />
-      <workItem from="1591881819258" duration="1779000" />
+      <workItem from="1591881819258" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="OOChat first commit">
       <created>1591882641513</created>
@@ -219,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591882641513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOChat first commit">
+      <created>1591884544075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591884544075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,10 +291,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="433" height="439" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1590487759260" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1591882693216">
+    <state x="129" y="61" width="1092" height="608" key="DiffContextDialog" timestamp="1591884789775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591882693216" />
+    <state x="129" y="61" width="1092" height="608" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591884789775" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1591882245832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,22 +303,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="508" y="278" width="373" height="171" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1591279525105" />
-    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1591884342134">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1591884761819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591884342134" />
-    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1591884342134">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591884761819" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1591884761819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591884342134" />
-    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1591884342134">
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591884761819" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1591884761819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591884342134" />
-    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1591884342134">
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591884761819" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1591884761819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591884342134" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591884761819" />
     <state width="1323" height="220" key="GridCell.Tab.1.bottom" timestamp="1590661611786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -330,14 +335,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590661611786" />
+    <state x="120" y="80" key="MergeDialog" timestamp="1591884696457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="80" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1591884696457" />
+    <state x="383" y="100" key="MultipleFileMergeDialog" timestamp="1591884696469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="100" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1591884696469" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1591882214089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591882214089" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1591884064452">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1591884546478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591884064452" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591884546478" />
     <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1591688766009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
